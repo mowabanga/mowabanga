@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mowabanga
-- 🌱 I’m currently learning software engineering and data science
+- 🌱 I’m a fullstack software developer currently transitioning to web3 and learning blockchain development.
 
 <!---
 mowabanga/mowabanga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
